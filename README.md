@@ -17,7 +17,8 @@ As a web developer, I'm not just confined to the technical aspect of the process
 *   🌍  I'm based in Bhubaneswar
 *   ✉️  You can contact me at [nathayush131@gmail.com](mailto:nathayush131@gmail.com)
 *   🧠  I'm learning Ruby on Rails, Django, METEOR
-*   ⚡  I'm bat man### Skills 
+*   ⚡  I'm bat man
+*   ### Skills 
 <p align="left">
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
